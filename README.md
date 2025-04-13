@@ -7,10 +7,10 @@ ________
 
 Features 
 
--Randomly selected True/False questions from a question list
--GUI built using Python’s built-in Tkinter library
--Real-time score tracking
--Dynamic button behavior depending on the correct answer
--Visual feedback on whether the answer was correct or incorrect
+*Randomly selected True/False questions from a question list
+*GUI built using Python’s built-in Tkinter library
+*Real-time score tracking
+*Dynamic button behavior depending on the correct answer
+*Visual feedback on whether the answer was correct or incorrect
 
 
