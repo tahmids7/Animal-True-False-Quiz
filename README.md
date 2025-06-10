@@ -13,7 +13,7 @@ Features
 * Dynamic button behavior depending on the correct answer
 * Visual feedback on whether the answer was correct or incorrect
 * If the answer is incorrect, it would siaplay "Your answer is incorrect" in pink, and for correct answers "Ypur answer was correct" in light green
-* Some pictures of the application are shown below:
+* Here are some snippets of the application below:
 
 
 <img width="443" alt="Screenshot 2025-06-10 at 3 18 41 PM" src="https://github.com/user-attachments/assets/cf540191-8952-48c0-8057-dc4a3eef4885" />
